@@ -1,0 +1,316 @@
+body{
+    margin: 0;
+    padding: 0;
+}
+*{
+    box-sizing: border-box;
+}
+.spans1{
+    display: flex;
+    align-items: center;
+    gap: 15px;
+    justify-content: center;
+}
+.spans2{
+    display: flex;
+    align-items: center;
+    gap: 15px;
+    justify-content: center;
+}
+.spn1 span{
+    position: relative;
+    width: 85px;
+    padding-left: 50px;
+    text-align: end;
+}
+.spn1 img{
+    position: absolute;
+    margin-top: 3px;
+    margin-left: 3px;
+    width: 24px;
+    height: 24px;
+}
+.spn2 span{
+    position: relative;
+    width: 100px;
+    padding-left: 50px;
+    text-align: end;
+}
+.spn2 img{
+    position: absolute;
+    margin-top: 3px;
+    margin-left: 3px;
+    width: 24px;
+    height: 24px;
+}
+.spn3 span{
+    position: relative;
+    width: 82px;
+    padding-left: 50px;
+    text-align: end;
+}
+.spn3 img{
+    position: absolute;
+    margin-top: 3px;
+    margin-left: 3px;
+    width: 24px;
+    height: 24px;
+}
+.spn4 span{
+    position: relative;
+    width: 80px;
+    padding-left: 50px;
+    text-align: end;
+}
+.spn4 img{
+    position: absolute;
+    margin-top: 3px;
+    margin-left: 3px;
+    width: 24px;
+    height: 24px;
+}
+.spn5 span{
+    position: relative;
+    width: 90px;
+    padding-left: 50px;
+    text-align: end;
+}
+.spn5 img{
+    position: absolute;
+    margin-top: 3px;
+    margin-left: 3px;
+    width: 24px;
+    height: 24px;
+}
+.spn6 span{
+    position: relative;
+    width: 65px;
+    padding-left: 50px;
+    text-align: end;
+}
+.spn6 img{
+    position: absolute;
+    margin-top: 3px;
+    margin-left: 3px;
+    width: 24px;
+    height: 24px;
+}
+.spn7 span{
+    position: relative;
+    width: 70px;
+    padding-left: 50px;
+    text-align: end;
+}
+.spn7 img{
+    position: absolute;
+    margin-top: 3px;
+    margin-left: 3px;
+    width: 24px;
+    height: 24px;
+}
+.spn8 span{
+    position: relative;
+    width: 65px;
+    padding-left: 50px;
+    text-align: end;
+}
+.spn8 img{
+    position: absolute;
+    margin-top: 3px;
+    margin-left: 3px;
+    width: 24px;
+    height: 24px;
+}
+
+.spans3{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap: 15px;
+}
+.spans4{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap: 15px;
+}
+.span1{
+    display: flex;
+    align-items: center;
+    position: relative;
+}
+.txt1{
+    width: 120px;
+}
+
+.span1 img{
+    position: absolute;
+    width: 24px;
+    height: 24px;
+    margin-left: 7px;
+}
+.span1 svg{
+    position: absolute;
+    margin-left: 15px;
+    bottom: 6px;
+}
+.span2{
+    display: flex;
+    align-items: center;
+    position: relative;
+}
+.txt2{
+    width: 130px;
+}
+.span2 svg{
+    position: absolute;
+    margin-left: 15px;
+    bottom: 6px;
+}
+
+.span2 img{
+    position: absolute;
+    width: 24px;
+    height: 24px;
+    margin-left: 7px;
+}
+.span3{
+    display: flex;
+    align-items: center;
+    position: relative;
+}
+.span3 svg{
+    position: absolute;
+    margin-left: 10px;
+    bottom: 6px;
+}
+.txt3{
+    width: 110px;
+}
+
+.span3 img{
+    position: absolute;
+    width: 24px;
+    height: 24px;
+    margin-left: 7px;
+}
+.span4{
+    display: flex;
+    align-items: center;
+    position: relative;
+}
+.span4 svg{
+    position: absolute;
+    margin-left: 10px;
+    bottom: 6px;
+}
+.txt4{
+    width: 110px;
+}
+
+.span4 img{
+    position: absolute;
+    width: 24px;
+    height: 24px;
+    margin-left: 7px;
+}
+.span4{
+    display: flex;
+    align-items: center;
+    position: relative;
+}
+.span4 svg{
+    position: absolute;
+    margin-left: 10px;
+    bottom: 6px;
+}
+.txt4{
+    width: 110px;
+}
+
+.span4 img{
+    position: absolute;
+    width: 24px;
+    height: 24px;
+    margin-left: 7px;
+}
+.span5{
+    display: flex;
+    align-items: center;
+    position: relative;
+}
+.span5 svg{
+    position: absolute;
+    margin-left: 10px;
+    bottom: 6px;
+}
+.txt5{
+    width: 115px;
+}
+
+.span5 img{
+    position: absolute;
+    width: 24px;
+    height: 24px;
+    margin-left: 7px;
+}
+.span6{
+    display: flex;
+    align-items: center;
+    position: relative;
+}
+.span6 svg{
+    position: absolute;
+    margin-left: 10px;
+    bottom: 6px;
+}
+.txt6{
+    width: 90px;
+}
+
+.span6 img{
+    position: absolute;
+    width: 24px;
+    height: 24px;
+    margin-left: 7px;
+}
+.span7{
+    display: flex;
+    align-items: center;
+    position: relative;
+}
+.span7 svg{
+    position: absolute;
+    margin-left: 10px;
+    bottom: 6px;
+}
+.txt7{
+    width: 100px;
+}
+
+.span7 img{
+    position: absolute;
+    width: 24px;
+    height: 24px;
+    margin-left: 7px;
+}
+.span8{
+    display: flex;
+    align-items: center;
+    position: relative;
+}
+.span8 svg{
+    position: absolute;
+    margin-left: 10px;
+    bottom: 6px;
+}
+.txt8{
+    width: 95px;
+}
+
+.span8 img{
+    position: absolute;
+    width: 24px;
+    height: 24px;
+    margin-left: 7px;
+}
